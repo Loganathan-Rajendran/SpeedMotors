@@ -2,20 +2,12 @@ React Native Boilerplate
 =======================
 
 [![React Native](https://img.shields.io/badge/React%20Native-v0.43-blue.svg)](https://facebook.github.io/react-native/)
-[![React Navigation](https://img.shields.io/badge/React%20Navigation-v1.0-blue.svg)](https://reactnavigation.org/)
-[![NativeBase](https://img.shields.io/badge/NativeBase-v2.1-blue.svg)](https://nativebase.io/)
-
-[![CircleCI](https://circleci.com/gh/novom/react-native-boilerplate/tree/master.svg?style=shield)](https://circleci.com/gh/novom/react-native-boilerplate/tree/master)
 
 React Native Boilerplate is a starting point for React Native application.
 
 ## Features
 
 * [Redux](http://redux.js.org/)
-* [React Navigation](https://reactnavigation.org/) (with drawer)
-* [Jest](https://facebook.github.io/jest/)
-* [NativeBase](https://nativebase.io/) (UI Kit)
-* [CircleCI](https://circleci.com/)
 * [Eslint](http://eslint.org/) ([Airbnb config](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb))
 
 ## Prerequisites
