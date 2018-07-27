@@ -26,7 +26,7 @@ React Native Boilerplate is a starting point for React Native application.
 
 ## Getting Started
 
-1. Clone this repo, `git clone git@github.com:novom/react-native-boilerplate.git <your project name>`
+1. Clone this repo, `git@github.com:Loganathan-Rajendran/SpeedMotors.git`
 2. Go to project's root directory, `cd <your project name>`
 3. Remove `.git` folder,  `rm -rf .git`
 4. Open `package.json` and change the `name` property with your project name
