@@ -37,11 +37,17 @@ React Native Boilerplate is a starting point for React Native application.
 * Unit tests (watch mode): `yarn test:watch`
 * Code coverage: `yarn test:coverage`
 
+### To Make Android DebugBuild and ReleaseBuild
+
+* Go to project's directory, `cd android`
+* Run `./gradlew clean` to clean android build folder
+* Run `./gradlew assembleDebug` to make dedug build
+
 ## Contributing
 
 **Never** commit directly on master, instead use branches and pull requests.
 
-You must use the following Style Guides :
+# You must use the following Style Guides :
 
 * [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
